@@ -1,1 +1,1 @@
-Object-Oriented-Design
+Seminarier för KTH kurs Objektorienterad design 
